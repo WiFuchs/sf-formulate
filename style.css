@@ -1,6 +1,7 @@
 *{font-family: 'Fira Sans', sans-serif;}
 body {
-  background-color: #e3ebf9,
+  background-color: #e3ebf9;
+  text-align: center;
 }
 
 textarea {
@@ -9,16 +10,16 @@ textarea {
   border-radius: 5px;
   border: 1px solid #ccc;
   box-shadow: 1px 1px 1px #999;
-  width: 80vw;
-  margin-left: 10vw;
+  width: 90vw;
+  margin-left: 5vw;
 }
 
 .centerer {
   display: flex;
   justify-content: center;
   width: 100%;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 .button {
   width: 15em;
