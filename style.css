@@ -1,4 +1,16 @@
 *{font-family: 'Fira Sans', sans-serif;}
 body {
-  background-color: "#e3ebf9",
+  background-color: #e3ebf9,
+}
+
+input {
+  width: 80%;
+  margin-right: 10%;
+  min-height: 30%;
+}
+
+.button {
+  width: 15em;
+  background-color: #2f721c;
+  color: #e3ebf9;
 }
