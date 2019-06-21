@@ -10,8 +10,9 @@ textarea {
   border-radius: 5px;
   border: 1px solid #ccc;
   box-shadow: 1px 1px 1px #999;
-  width: 90vw;
-  margin-left: 5vw;
+  width: 90%;
+  resize: none;
+/*   margin-left: 5vw; */
 }
 
 .centerer {
