@@ -8,9 +8,16 @@ input {
   margin-right: 10%;
   min-height: 30%;
 }
-
+.centerer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
 .button {
   width: 15em;
   background-color: #2f721c;
   color: #e3ebf9;
+  cursor: pointer;
+  padding: 1em;
+  text-align: center;
 }
